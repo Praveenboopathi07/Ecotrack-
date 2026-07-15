@@ -1,0 +1,27 @@
+# EcoTrack - Tourist Carbon Footprint Dashboard
+
+## Overview
+EcoTrack is a web application that helps tourists calculate their carbon footprint based on transportation, accommodation, food, shopping, and activities.
+
+## Features
+- Carbon Footprint Calculator
+- Eco Score
+- Tree Offset Estimation
+- Sustainable Travel Suggestions
+- Admin Dashboard
+- Responsive Design
+
+## Technologies
+- HTML5
+- CSS3
+- JavaScript
+- JSON
+
+## Project Workflow
+User Input → Carbon Calculation → Eco Score → Dashboard → Recommendations
+
+## Future Enhancements
+- AI Travel Recommendation
+- Google Maps Integration
+- Carbon Offset Payment
+- User Accounts
